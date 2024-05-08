@@ -1,0 +1,9 @@
+{
+  "identifier": "erkle64.RapidPocketCrafting",
+  "displayName": "RapidPocketCrafting",
+  "assetBundles": [ ],
+  "assemblies": [
+    "RapidPocketCrafting.dll"
+  ]
+}
+
